@@ -11,7 +11,7 @@ Current Objectives
   3. Incorporate Copy Song History Table within the Copy List Handler.
   
 Project Photos
-![Login Display](link-to-image)
-![Database View](link-to-image)
-![Admin View](link-to-image)
-![Copy Handler View](link-to-image)
+![Login Display](resources/pics/GRDB_Preview.png)
+![Database View](resources/pics/GRDB_Preview.png)
+![Admin View](resources/pics/GRDB_Preview.png)
+![Copy Handler View](resources/pics/GRDB_Preview.png)
