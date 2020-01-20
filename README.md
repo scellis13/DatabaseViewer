@@ -14,4 +14,5 @@ Project Photos
 ![Login Display](resources/pics/GRDB_Preview_Login.png)
 ![Database View](resources/pics/GRDB_Preview.png)
 ![Admin View](resources/pics/GRDB_Preview_Admin.png)
-![Copy Handler Drawing](resources/pics/GRDB_Preview_Chart-Import.png)
+![Copy Handler View](resources/pics/GRDB_Preview_Copy-Handler.png)
+![Chart Handler Drawing](resources/pics/GRDB_Preview_Chart-Import.png)
